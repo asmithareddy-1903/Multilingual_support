@@ -1,4 +1,4 @@
-# Multilingual Support
+# Multilingual_Support
 
 This project translates customer queries from multiple languages into English using an AI-powered language detection and translation pipeline. It provides a simple and efficient way to handle global support requests across different languages.
 
